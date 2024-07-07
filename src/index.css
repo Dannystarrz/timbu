@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Example: src/App.css */
+
+body {
+    font-family: 'Nomina', sans-serif;
+  }
+  
+  .header {
+    font-family: 'Calesta', serif;
+  }
+  
